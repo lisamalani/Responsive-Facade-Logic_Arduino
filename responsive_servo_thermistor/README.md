@@ -1,4 +1,4 @@
-# ServoMotor
-# Thermistor
+ServoMotor
+Thermistor
 
 2021
